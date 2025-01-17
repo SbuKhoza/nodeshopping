@@ -1,12 +1,7 @@
 [
   {
     "id": 2,
-    "name": "Bread",
-    "quantity": 1
-  },
-  {
-    "id": 2,
     "name": "Whole Grain Bread",
-    "quantity": 1
+    "quantity": 122
   }
 ]
